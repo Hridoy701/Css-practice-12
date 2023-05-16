@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.boxe{
+    width: 0px;
+    height: 0px;
+    border-bottom: 200px solid green;
+    border-left: 1180px solid transparent;
+    border-right: 0px solid transparent;
+}
+.boxe-2{
+    background-color: blue;
+    height: 300px;
+}
+h2{
+    margin: 0;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
